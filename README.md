@@ -4,12 +4,12 @@ Hi👋 My name is Ümitcan Bal
 Frontend Developer
 ------------------
 
-Frontend developer with 4 years of experience
+Frontend developer with 6 years of experience
 
 * 🌍  I'm based in Prague, Czech Republic
-* 🖥️  See my portfolio at [umitcanbal.com](http://umitcanbal.com/)
+* 🖥️  See my portfolio at [umitcanbal.com](http://umitcanbal.com/) (outdated)
 * ✉️  You can contact me at [umitcanbal@gmail.com](mailto:umitcanbal@gmail.com)
-* 🧠  I'm learning Svelte/SvelteKit
+* 🧠  I like Svelte/SvelteKit
 * 🤝  I'm open to collaborating on SvelteKit projects
 
 ### Skills
